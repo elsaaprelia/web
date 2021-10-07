@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+	font-family: cursive;
+	background: #d5f0f3;
+}
+
+.pesanan{
+	margin-right: 250px;
+	margin-left: 250px;
+}
+
+.box{
+	width: 500px;
+	height: 50px;
+}

@@ -1,0 +1,14 @@
+footer{
+	background-color: #2F4F4F;
+	padding: 20px 10px;
+	border-radius: 5px;
+	border: 1px solid #f0f0f0;
+	margin-bottom: 10%;
+	margin-top: 30%;
+}
+
+.alamat{
+	font-size: 14px;
+	color: white;
+	font-family: serif;
+}
